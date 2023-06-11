@@ -1,0 +1,17 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://haycafe.vn/wp-content/uploads/2021/12/hinh-anh-thien-nhien-phong-canh-Dai-Loan-dep-nhat.jpg);
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://haycafe.vn/wp-content/uploads/2021/12/Anh-chup-thien-nhien-va-cac-loai-dong-vat-sinh-dong.jpg);
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://haycafe.vn/wp-content/uploads/2021/12/Nhung-hinh-anh-thien-nhien-dep-nhat.jpg);
+}
